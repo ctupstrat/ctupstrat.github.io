@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ctupstrat.github.io/ctupstrat.txt.gz
+Sitemap: https://ctupstrat.github.io/app/ctupstrat.txt.gz
+Sitemap: https://ctupstrat.github.io/assets/ctupstrat.txt.gz
+Sitemap: https://ctupstrat.github.io/css/ctupstrat.txt.gz
+Sitemap: https://ctupstrat.github.io/includes/ctupstrat.txt.gz
+Sitemap: https://ctupstrat.github.io/item/ctupstrat.txt.gz
+Sitemap: https://ctupstrat.github.io/src/ctupstrat.txt.gz
